@@ -10,7 +10,7 @@
 div#image {
    width: 700px;
    height: 500px;
-   background-image: url();
+   background-image: url(https://github.com/unesaki/place_name/blob/main/back_image.png?raw=true);
     background-repeat: no-repeat;
 }
 
